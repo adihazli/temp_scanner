@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">SATO MYTemp</string>
+    <string name="appdb_name">ScanMe.sqlite</string>
+
+    <!-- This is Shared Preferences item-->
+    <string name="MyPref">My Shared Preferences</string>
+    <string name="DeviceName">Device Name</string>
+    <string name="CompanyID">Company ID</string>
+    <string name="CompanyName">Company Name</string>
+    <string name="Email">Email Address</string>
+    <string name="Password">Password</string>
+    <string name="Location">Location</string>
+    <string name="PrintVisitorAuto">Print Visitor Automatically</string>
+    <string name="PrintEmpAuto">Print Employee Automatically</string>
+    <string name="WebServ">Web Service</string>
+
+    <!-- Text Label for btn-->
+    <string name="SettingBtn">Setting Button</string>
+    <string name="checkInBtn">Check In</string>
+    <string name="checkOutBtn">Check Out</string>
+    <string name="exportDataBtn">Export Data</string>
+    <string name="scanBtn">Scan QR</string>
+    <string name="okBtn">Ok</string>
+    <string name="returnBtn">Return</string>
+    <string name="scanTempBtn">Please Scan Temperature</string>
+    <string name="idNoBtn">Id No</string>
+    <string name="exportCsvBtn">Export csv</string>
+    <string name="saveBtn">Save</string>
+    <string name="rePrintBtn">Reprint</string>
+    <string name="completeBtn">Complete</string>
+
+    <!-- Text Label for label-->
+    <string name="SATO">Powered by SATO Auto-ID \n Malaysia Sdn Bhd</string>
+    <string name="tempTxt">0.00°C</string>
+    <string name="nameLbl">Name :</string>
+    <string name="hpNoLbl">HP No :</string>
+    <string name="picLbl">PIC :</string>
+    <string name="reasonLbl">Reason :</string>
+    <string name="nametxt">Visitor Name</string>
+    <string name="hpNotxt">HP No</string>
+    <string name="pictxt">PIC</string>
+    <string name="reasontxt">Reason</string>
+    <string name="idNoLbl">ID No :</string>
+    <string name="idNotxt">ID No</string>
+    <string name="staffIdNoEt">Staff Id No</string>
+    <string name="OutOfRangeLbl">Value is out of range</string>
+    <string name="HiTemp">Hi Temperature</string>
+    <string name="LowTemp">Low Temperature</string>
+    <string name="startDate">Start Date :</string>
+    <string name="endDate">End Date :</string>
+    <string name="pickStartDate">Pick Start Date</string>
+    <string name="pickEndDate">Pick End Date</string>
+    <string name="exportScannedData">Export Scanned Data</string>
+    <string name="deviceIdlbl">Device Id : </string>
+    <string name="comIdlbl">Company Id :</string>
+    <string name="comNamelbl">Comp Name :</string>
+    <string name="locationlbl">Location :</string>
+    <string name="Temperaturelbl">Temp :</string>
+    <string name="visitorLBl">Visitor Information</string>
+    <string name="deviceIdEt">Device Id  </string>
+    <string name="comIdEt">Company Id </string>
+    <string name="comNameEt">Comp Name </string>
+    <string name="locationEt">Location </string>
+
+    <!-- Text Label for alert message-->
+    <string name="correctIDAlert">Please key in correct ID no.</string>
+    <string name="keyInIDAlert">Please key in ID no first.</string>
+    <string name="qrScanCancelAlert">QR scan cancelled. </string>
+    <string name="tempHiAlert">Temperature is more than 37.49 °C. Please inform HR department.</string>
+    <string name="tempLowAlert">Temperature is less than 35.00 °C. Please inform HR department.</string>
+    <string name="qrScanAlert">Please scan QR code first.</string>
+    <string name="exportMsgAlert">Data export to csv file. Please retrieve the data in Download folder.</string>
+    <string name="saveSettingAlert">Setting data saved.</string>
+    <string name="OutOfRangeAlert">Temperature reading is out of range. Please take the measurement again</string>
+    <string name="checkOutMessageAlert">Confirm to check out?</string>
+    <string name="checkOutAlert">Check Out Successful</string>
+
+
+</resources>
